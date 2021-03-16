@@ -1,0 +1,13 @@
+{
+"name": "pelatihan Automasi-WebDev2",
+"version": "0.0.1",
+"author": "Nasrul Laksana",
+"scripts": {
+"prettify": "gulp"
+},
+"devDependencies": {
+"gulp": "^4.0.2",
+"gulp-prettier": "^3.0.0",
+"prettier": "^2.2.1"
+}
+}
